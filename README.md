@@ -1,2 +1,2 @@
-# shadowcast
-Controllable Graph Generation with Explainability
+# ShadowCast: Controllable Graph Generation
+
