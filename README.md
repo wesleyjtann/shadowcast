@@ -18,10 +18,11 @@ Please cite our paper if you find this code useful for your own work:
 }
 ```
 
-Many times, data of various situations are not available in observed real-world networks. For example, email communications in an organization between various departments. Due to limited data, previously observed network information may be missing scenarios of intra-department email surge within either the Human Resources or Accounting departments. Given an observed graph and some user-specified Markov model parameters, SHADOWCAST controls the conditions to generate desired graphs.
+Many times, data of various situations are not available in observed real-world networks. For example, email communications in an organization between various departments. Due to limited data, previously observed network information may be missing scenarios of intra-department email surge within either the Human Resources or Accounting departments. 
 
 ![example](/image/Shadowcast_gen-email.png)
 
+Given an observed graph and some user-specified Markov model parameters, SHADOWCAST controls the conditions to generate desired graphs.
 
 ## Prerequisites
 
@@ -32,11 +33,11 @@ pip install -r requirements.txt
 
 ## Data
 
-Our datasets:
+Our datasets are in the [data](/data/) folder.
 1. EUcore-top
 2. Enron 
 3. Cora-ML
-are in the [data](/data/) folder.
+
 
 
 ## Running the experiments
