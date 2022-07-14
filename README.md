@@ -1,6 +1,6 @@
-# ShadowCast: Controllable Graph Generation
+# ShadowCast: Controllable Graph Generation 
 
-SHADOWCAST is a generative model based on a conditional generative adversarial network, capable of controlling graph generation while retaining the original graph's intrinsic properties. 
+[SHADOWCAST](https://openreview.net/forum?id=tnq_O52RVbR) is a generative model based on a conditional generative adversarial network, capable of controlling graph generation while retaining the original graph's intrinsic properties. 
 
 ![shadowcast_architecture](/image/ShadowCast_architecture.png)
 
